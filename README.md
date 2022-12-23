@@ -7,7 +7,7 @@ Frontend Bootcamp is a comprehensive, fully responsive landing page. The code co
 - Web API's
 - JavaScript
 
-Go to website:https://seliun.github.io/Web-Development-Bootcamp-Website/
+Go to website: https://seliun.github.io/Web-Development-Bootcamp-Website/
 
 ## ✨ How It Looks:
 
